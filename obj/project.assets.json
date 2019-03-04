@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aarond3/apps/CoinFlip/CoinFlip.csproj",
+      "projectUniqueName": "/Users/aarond3/apps/CoinFlip-new/CoinFlip.csproj",
       "projectName": "CoinFlip",
-      "projectPath": "/Users/aarond3/apps/CoinFlip/CoinFlip.csproj",
+      "projectPath": "/Users/aarond3/apps/CoinFlip-new/CoinFlip.csproj",
       "packagesPath": "/Users/aarond3/.nuget/packages/",
-      "outputPath": "/Users/aarond3/apps/CoinFlip/obj/",
+      "outputPath": "/Users/aarond3/apps/CoinFlip-new/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
